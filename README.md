@@ -12,5 +12,5 @@ source my_env/bin/activate # activate my_env
 ## Install dependencies
 
 ```shell
-python3 -m pip install transformers==4.30.2 torch
+pip install -r requirements.txt
 ```
